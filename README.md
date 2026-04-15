@@ -8,7 +8,7 @@ personal fastfetch config.
 ![preview](https://imgur.com/d1Oqx4l.png)
 ## setup
 
-put `config.jsonc` and `ascii.txt` in `C:\Users\%username%\.config\fastfetch\`
+put `fastfetch/config.jsonc` and `fastfetch/ascii.txt` in `C:\Users\%username%\.config\fastfetch\`
 
 ## deps
 
